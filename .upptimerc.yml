@@ -1,36 +1,106 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+# Cấu hình Repository
+owner: degoholding
+repo: status
 
+delay: 2000 
+skipDeleteIssues: true
+
+# Tự động gán người xử lý chung nếu có sự cố (thay bằng username Github thực tế)
+assignees:
+  - mrcuongdegoholding
+  - pltgiang
+  - degoholding
+
+# Danh sách các website/API cần theo dõi
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  # === NHÓM 1: HỆ THỐNG CỐT LÕI CỦA DEGO HOLDING ===
+  - name: Dego Holding App
+    url: https://app.degoholding.vn/
+    maxResponseTime: 8000
+    
+  - name: Dego Holding Homepage
+    # Fix lỗi 415: Chuyển sang ping thẳng cổng HTTPS thay vì GET REST API
     check: "tcp-ping"
-    ipv6: true
+    url: degoholding.com 
+    port: 443
 
+  - name: Mesa Message Gateway (API)
+    url: https://api-mesa.degoholding.vn/api/messages/send
+    method: POST
+    expectedStatusCodes: [200, 400, 401, 403, 404]
+    maxResponseTime: 5000
+    # Nếu API Mesa do team cụ thể quản lý, có thể assign riêng tại đây:
+    # assignees:
+    #   - pltgiang
+    
+  - name: Mesa Dashboard (Quản trị)
+    url: https://mesa.degoholding.vn/
+    
+  - name: My Firebase API (Core Backend)
+    url: https://api.degoholding.vn/
+    expectedStatusCodes: [200, 400, 401, 403, 404, 405]
+    maxResponseTime: 5000
+
+  # === NHÓM 2: CÁC CÔNG TY THÀNH VIÊN ===
+  # (Em đã chuyển tất cả các trang WP sang tcp-ping port 443 để né lỗi 415/WAF)
+  - name: ABA Chemical
+    check: "tcp-ping"
+    url: abachemical.com
+    port: 443
+    
+  - name: AGC Việt Nam
+    check: "tcp-ping"
+    url: agcvietnam.com.vn
+    port: 443
+    
+  - name: IDA Global
+    check: "tcp-ping"
+    url: idaglobal.com.vn
+    port: 443
+    
+  - name: iCare Pharma
+    check: "tcp-ping"
+    url: icarepharma.com.vn
+    port: 443
+    
+  - name: Dr. Xanh
+    check: "tcp-ping"
+    url: drxanh.com
+    port: 443
+    
+  - name: N2 Agro
+    check: "tcp-ping"
+    url: n2agro.vn
+    port: 443
+
+# Cấu hình giao diện Trang Status
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.degoholding.vn
+  logoUrl: https://degoholding.com/wp-content/uploads/2023/08/DEGO-HOLDING-LOGO.png
+  name: Dego Holding Status
+  introTitle: "**Trạng thái hệ thống các dịch vụ của Dego Holding.**"
+  introMessage: Trang web này cung cấp dữ liệu theo thời gian thực về tình trạng hoạt động của các hệ thống nội bộ và website công ty thành viên. Tự động kiểm tra mỗi 5 phút.
+  theme: light
+  
   navbar:
-    - title: Status
+    - title: Trạng thái
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Trang chủ Dego
+      href: https://degoholding.vn/
+    - title: App Nội bộ
+      href: https://app.degoholding.vn/
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+# Cấu hình ngôn ngữ tiếng Việt
+i18n:
+  activeIncidents: Cảnh báo đang diễn ra
+  allSystemsOperational: Tất cả hệ thống hoạt động bình thường
+  incidentReport: "Báo cáo sự cố #$NUMBER"
+  activeIncidentSummary: Mở lúc $DATE với $POSTS tin nhắn cập nhật.
+  down: Sập mạng
+  up: Hoạt động bình thường
+  degraded: Suy giảm hiệu năng
+  outage: Ngừng hoạt động
+  responseTime: Thời gian phản hồi
+  uptime: Thời gian hoạt động (Uptime)
+  api: API
+  overallUptime: "Uptime tổng thể: $UPTIME"
