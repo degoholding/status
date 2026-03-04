@@ -20,55 +20,41 @@ sites:
     
   - name: Dego Holding Homepage
     # Đã chuyển về HTTPS. Thêm header User-Agent để mô phỏng trình duyệt, giúp né lỗi 415 và bypass WAF
-    url: https://degoholding.com/
-    headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+    url: https://degoholding.com
 
   - name: Mesa Message Gateway (API)
-    url: https://api-mesa.degoholding.vn/api/messages/send
-    method: POST
+    url: https://api-mesa.degoholding.vn
+    method: GET
     expectedStatusCodes: [200, 400, 401, 403, 404]
     maxResponseTime: 5000
     
   - name: Mesa Dashboard (Quản trị)
-    url: https://mesa.degoholding.vn/
+    url: https://mesa.degoholding.vn
     
   - name: My Firebase API (Core Backend)
-    url: https://api.degoholding.vn/
+    url: https://api.degoholding.vn
     expectedStatusCodes: [200, 400, 401, 403, 404, 405]
     maxResponseTime: 5000
 
   # === NHÓM 2: CÁC CÔNG TY THÀNH VIÊN ===
   # Đã chuyển tất cả các trang WP sang HTTPS và thêm Header để bypass WAF chặn bot
   - name: ABA Chemical
-    url: https://abachemical.com/
-    headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    url: https://abachemical.com
     
   - name: AGC Việt Nam
-    url: https://agcvietnam.com.vn/
-    headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    url: https://agcvietnam.com.vn
     
   - name: IDA Global
-    url: https://idaglobal.com.vn/
-    headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    url: https://idaglobal.com.vn
     
   - name: iCare Pharma
-    url: https://icarepharma.com.vn/
-    headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    url: https://icarepharma.com.vn
     
   - name: Dr. Xanh
-    url: https://drxanh.com/
-    headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    url: https://drxanh.com
     
   - name: N2 Agro
-    url: https://n2agro.vn/
-    headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    url: https://n2agro.vn
 
 # Cấu hình giao diện Trang Status
 status-website:
