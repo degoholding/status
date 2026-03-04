@@ -79,7 +79,7 @@ status-website:
   logoUrl: https://degoholding.com/wp-content/uploads/2023/08/DEGO-HOLDING-LOGO.png
   name: Dego Holding Status
   introTitle: "**Trạng thái hệ thống các dịch vụ của Dego Holding.**"
-  introMessage: Trang web này cung cấp dữ liệu theo thời gian thực về tình trạng hoạt động của các hệ thống nội bộ và website công ty thành viên. Tự động kiểm tra mỗi 5 phút.
+  introMessage: Trang web này cung cấp dữ liệu theo thời gian thực về tình trạng hoạt động của các hệ thống nội bộ và website công ty thành viên. Tự động kiểm tra.
   theme: light
   
   navbar:
