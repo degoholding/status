@@ -5,7 +5,7 @@ repo: status
 delay: 2000 
 skipDeleteIssues: true
 
-# Tự động gán người xử lý chung nếu có sự cố (thay bằng username Github thực tế)
+# Tự động gán người xử lý chung nếu có sự cố
 assignees:
   - mrcuongdegoholding
   - pltgiang
@@ -19,19 +19,16 @@ sites:
     maxResponseTime: 8000
     
   - name: Dego Holding Homepage
-    # Fix lỗi 415: Chuyển sang ping thẳng cổng HTTPS thay vì GET REST API
-    check: "tcp-ping"
-    url: degoholding.com 
-    port: 443
+    # Đã chuyển về HTTPS. Thêm header User-Agent để mô phỏng trình duyệt, giúp né lỗi 415 và bypass WAF
+    url: https://degoholding.com/
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
 
   - name: Mesa Message Gateway (API)
     url: https://api-mesa.degoholding.vn/api/messages/send
     method: POST
     expectedStatusCodes: [200, 400, 401, 403, 404]
     maxResponseTime: 5000
-    # Nếu API Mesa do team cụ thể quản lý, có thể assign riêng tại đây:
-    # assignees:
-    #   - pltgiang
     
   - name: Mesa Dashboard (Quản trị)
     url: https://mesa.degoholding.vn/
@@ -42,36 +39,36 @@ sites:
     maxResponseTime: 5000
 
   # === NHÓM 2: CÁC CÔNG TY THÀNH VIÊN ===
-  # (Em đã chuyển tất cả các trang WP sang tcp-ping port 443 để né lỗi 415/WAF)
+  # Đã chuyển tất cả các trang WP sang HTTPS và thêm Header để bypass WAF chặn bot
   - name: ABA Chemical
-    check: "tcp-ping"
-    url: abachemical.com
-    port: 443
+    url: https://abachemical.com/
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     
   - name: AGC Việt Nam
-    check: "tcp-ping"
-    url: agcvietnam.com.vn
-    port: 443
+    url: https://agcvietnam.com.vn/
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     
   - name: IDA Global
-    check: "tcp-ping"
-    url: idaglobal.com.vn
-    port: 443
+    url: https://idaglobal.com.vn/
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     
   - name: iCare Pharma
-    check: "tcp-ping"
-    url: icarepharma.com.vn
-    port: 443
+    url: https://icarepharma.com.vn/
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     
   - name: Dr. Xanh
-    check: "tcp-ping"
-    url: drxanh.com
-    port: 443
+    url: https://drxanh.com/
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     
   - name: N2 Agro
-    check: "tcp-ping"
-    url: n2agro.vn
-    port: 443
+    url: https://n2agro.vn/
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 
 # Cấu hình giao diện Trang Status
 status-website:
