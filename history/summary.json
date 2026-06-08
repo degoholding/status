@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/degoholding.com.ico",
     "slug": "dego-holding-homepage",
     "status": "down",
-    "uptime": "93.89%",
+    "uptime": "93.81%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "53.92%",
-    "uptimeMonth": "87.75%",
-    "uptimeYear": "93.89%",
+    "uptimeWeek": "52.75%",
+    "uptimeMonth": "87.48%",
+    "uptimeYear": "93.81%",
     "time": 1572,
     "timeDay": 1070,
     "timeWeek": 1381,
@@ -78,7 +78,7 @@
       "2026-06-02": 154,
       "2026-06-04": 644,
       "2026-06-05": 190,
-      "2026-06-08": 124,
+      "2026-06-08": 242,
       "2026-06-07": 1440,
       "2026-06-06": 958
     }
@@ -89,11 +89,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-mesa.degoholding.vn.ico",
     "slug": "mesa-message-gateway-api",
     "status": "down",
-    "uptime": "95.53%",
-    "uptimeDay": "81.78%",
-    "uptimeWeek": "76.34%",
-    "uptimeMonth": "92.93%",
-    "uptimeYear": "95.53%",
+    "uptime": "95.45%",
+    "uptimeDay": "73.61%",
+    "uptimeWeek": "75.18%",
+    "uptimeMonth": "92.66%",
+    "uptimeYear": "95.45%",
     "time": 898,
     "timeDay": 881,
     "timeWeek": 863,
@@ -144,7 +144,7 @@
       "2026-06-04": 644,
       "2026-06-05": 190,
       "2026-06-07": 250,
-      "2026-06-08": 12
+      "2026-06-08": 129
     }
   },
   {
@@ -191,15 +191,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/abachemical.com.ico",
     "slug": "aba-chemical",
     "status": "down",
-    "uptime": "91.88%",
+    "uptime": "91.80%",
     "uptimeDay": "65.94%",
-    "uptimeWeek": "67.55%",
-    "uptimeMonth": "85.59%",
-    "uptimeYear": "91.88%",
+    "uptimeWeek": "66.39%",
+    "uptimeMonth": "85.55%",
+    "uptimeYear": "91.80%",
     "time": 3145,
     "timeDay": 2567,
     "timeWeek": 2784,
-    "timeMonth": 3192,
+    "timeMonth": 3189,
     "timeYear": 3145,
     "dailyMinutesDown": {
       "2026-04-13": 102,
@@ -247,7 +247,7 @@
       "2026-06-05": 258,
       "2026-06-06": 379,
       "2026-06-07": 589,
-      "2026-06-08": 11
+      "2026-06-08": 129
     }
   },
   {
@@ -256,11 +256,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/agcvietnam.com.vn.ico",
     "slug": "agc-viet-nam",
     "status": "down",
-    "uptime": "95.53%",
-    "uptimeDay": "81.89%",
-    "uptimeWeek": "76.34%",
-    "uptimeMonth": "92.92%",
-    "uptimeYear": "95.53%",
+    "uptime": "95.45%",
+    "uptimeDay": "73.73%",
+    "uptimeWeek": "75.17%",
+    "uptimeMonth": "92.65%",
+    "uptimeYear": "95.45%",
     "time": 1216,
     "timeDay": 1276,
     "timeWeek": 1283,
@@ -311,7 +311,7 @@
       "2026-06-04": 648,
       "2026-06-05": 188,
       "2026-06-07": 249,
-      "2026-06-08": 11
+      "2026-06-08": 129
     }
   },
   {
@@ -320,11 +320,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/idaglobal.com.vn.ico",
     "slug": "ida-global",
     "status": "down",
-    "uptime": "95.42%",
+    "uptime": "95.34%",
     "uptimeDay": "69.89%",
-    "uptimeWeek": "73.59%",
-    "uptimeMonth": "92.88%",
-    "uptimeYear": "95.42%",
+    "uptimeWeek": "72.42%",
+    "uptimeMonth": "92.61%",
+    "uptimeYear": "95.34%",
     "time": 1893,
     "timeDay": 1550,
     "timeWeek": 1490,
@@ -376,7 +376,7 @@
       "2026-06-04": 649,
       "2026-06-05": 188,
       "2026-06-07": 528,
-      "2026-06-08": 11
+      "2026-06-08": 128
     }
   },
   {
@@ -446,11 +446,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/drxanh.com.ico",
     "slug": "dr-xanh",
     "status": "down",
-    "uptime": "95.28%",
+    "uptime": "95.20%",
     "uptimeDay": "70.28%",
-    "uptimeWeek": "73.70%",
-    "uptimeMonth": "92.37%",
-    "uptimeYear": "95.28%",
+    "uptimeWeek": "72.53%",
+    "uptimeMonth": "92.10%",
+    "uptimeYear": "95.20%",
     "time": 1821,
     "timeDay": 1500,
     "timeWeek": 1703,
@@ -501,7 +501,7 @@
       "2026-06-04": 649,
       "2026-06-05": 185,
       "2026-06-07": 522,
-      "2026-06-08": 11
+      "2026-06-08": 129
     }
   },
   {
