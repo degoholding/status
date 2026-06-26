@@ -1,7 +1,7 @@
 url: https://api-mesa.degoholding.vn
-status: up
-code: 200
-responseTime: 1080
-lastUpdated: 2026-06-26T04:42:22.726Z
+status: down
+code: 415
+responseTime: 750
+lastUpdated: 2026-06-26T19:04:47.380Z
 startTime: 2026-03-04T04:53:21.158Z
 generator: Upptime <https://github.com/upptime/upptime>
