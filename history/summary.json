@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/degoholding.com.ico",
     "slug": "dego-holding-homepage",
     "status": "down",
-    "uptime": "58.39%",
+    "uptime": "58.38%",
     "uptimeDay": "2.05%",
     "uptimeWeek": "15.34%",
     "uptimeMonth": "3.43%",
-    "uptimeYear": "58.39%",
+    "uptimeYear": "58.38%",
     "time": 1438,
     "timeDay": 1023,
     "timeWeek": 1266,
@@ -141,7 +141,7 @@
       "2026-08-05": 1201,
       "2026-08-07": 1307,
       "2026-08-06": 1440,
-      "2026-08-08": 236
+      "2026-08-08": 282
     }
   },
   {
@@ -406,17 +406,17 @@
     "url": "https://idaglobal.com.vn",
     "icon": "https://icons.duckduckgo.com/ip3/idaglobal.com.vn.ico",
     "slug": "ida-global",
-    "status": "down",
-    "uptime": "94.03%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "91.63%",
-    "uptimeYear": "94.03%",
-    "time": 1846,
-    "timeDay": 1908,
-    "timeWeek": 1981,
-    "timeMonth": 1774,
-    "timeYear": 1846,
+    "status": "up",
+    "uptime": "94.02%",
+    "uptimeDay": "96.79%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "91.53%",
+    "uptimeYear": "94.02%",
+    "time": 1849,
+    "timeDay": 2553,
+    "timeWeek": 2133,
+    "timeMonth": 1788,
+    "timeYear": 1849,
     "dailyMinutesDown": {
       "2026-06-05": 188,
       "2026-06-07": 528,
@@ -467,7 +467,7 @@
       "2026-07-26": 335,
       "2026-07-27": 129,
       "2026-07-28": 148,
-      "2026-08-08": 1
+      "2026-08-08": 46
     }
   },
   {
