@@ -25,7 +25,7 @@
     "status": "down",
     "uptime": "58.24%",
     "uptimeDay": "8.80%",
-    "uptimeWeek": "15.12%",
+    "uptimeWeek": "14.84%",
     "uptimeMonth": "3.65%",
     "uptimeYear": "58.24%",
     "time": 1432,
@@ -141,7 +141,7 @@
       "2026-08-05": 1201,
       "2026-08-07": 1307,
       "2026-08-06": 1440,
-      "2026-08-08": 935
+      "2026-08-08": 964
     }
   },
   {
@@ -265,17 +265,17 @@
     "url": "https://abachemical.com",
     "icon": "https://icons.duckduckgo.com/ip3/abachemical.com.ico",
     "slug": "aba-chemical",
-    "status": "down",
-    "uptime": "94.57%",
-    "uptimeDay": "97.17%",
-    "uptimeWeek": "97.10%",
+    "status": "up",
+    "uptime": "94.56%",
+    "uptimeDay": "96.20%",
+    "uptimeWeek": "96.82%",
     "uptimeMonth": "87.49%",
-    "uptimeYear": "94.57%",
-    "time": 2994,
-    "timeDay": 3137,
-    "timeWeek": 3102,
-    "timeMonth": 2905,
-    "timeYear": 2994,
+    "uptimeYear": "94.56%",
+    "time": 2998,
+    "timeDay": 3954,
+    "timeWeek": 3293,
+    "timeMonth": 2930,
+    "timeYear": 2998,
     "dailyMinutesDown": {
       "2026-06-22": 176,
       "2026-06-23": 328,
@@ -320,7 +320,7 @@
       "2026-08-05": 91,
       "2026-08-04": 17,
       "2026-08-07": 85,
-      "2026-08-08": 1
+      "2026-08-08": 29
     }
   },
   {
@@ -408,11 +408,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/idaglobal.com.vn.ico",
     "slug": "ida-global",
     "status": "up",
-    "uptime": "94.03%",
+    "uptime": "94.04%",
     "uptimeDay": "96.79%",
     "uptimeWeek": "99.54%",
-    "uptimeMonth": "91.59%",
-    "uptimeYear": "94.03%",
+    "uptimeMonth": "91.66%",
+    "uptimeYear": "94.04%",
     "time": 1849,
     "timeDay": 2553,
     "timeWeek": 2133,
@@ -548,7 +548,7 @@
     "uptime": "93.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.05%",
+    "uptimeMonth": "91.12%",
     "uptimeYear": "93.63%",
     "time": 1958,
     "timeDay": 1950,
