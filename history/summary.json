@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/degoholding.com.ico",
     "slug": "dego-holding-homepage",
     "status": "down",
-    "uptime": "56.78%",
+    "uptime": "56.77%",
     "uptimeDay": "14.27%",
     "uptimeWeek": "12.82%",
     "uptimeMonth": "6.31%",
-    "uptimeYear": "56.78%",
+    "uptimeYear": "56.77%",
     "time": 1406,
     "timeDay": 1240,
     "timeWeek": 1192,
@@ -140,7 +140,7 @@
       "2026-08-11": 1386,
       "2026-08-12": 1209,
       "2026-08-13": 1246,
-      "2026-08-14": 1126
+      "2026-08-14": 1204
     }
   },
   {
@@ -264,19 +264,19 @@
     "url": "https://abachemical.com",
     "icon": "https://icons.duckduckgo.com/ip3/abachemical.com.ico",
     "slug": "aba-chemical",
-    "status": "up",
-    "uptime": "95.27%",
-    "uptimeDay": "96.89%",
-    "uptimeWeek": "92.01%",
-    "uptimeMonth": "88.33%",
-    "uptimeYear": "95.27%",
+    "status": "down",
+    "uptime": "95.36%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "92.00%",
+    "uptimeMonth": "88.32%",
+    "uptimeYear": "95.36%",
     "time": 2999,
-    "timeDay": 1923,
+    "timeDay": 1080,
     "timeWeek": 3160,
     "timeMonth": 2880,
     "timeYear": 2999,
     "dailyMinutesDown": {
-      "2026-06-27": 401,
+      "2026-06-27": 186,
       "2026-06-28": 641,
       "2026-06-29": 386,
       "2026-06-30": 115,
@@ -318,7 +318,8 @@
       "2026-08-09": 229,
       "2026-08-11": 280,
       "2026-08-12": 223,
-      "2026-08-13": 45
+      "2026-08-13": 45,
+      "2026-08-14": 1
     }
   },
   {
