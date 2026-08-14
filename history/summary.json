@@ -22,19 +22,18 @@
     "url": "https://degoholding.com",
     "icon": "https://icons.duckduckgo.com/ip3/degoholding.com.ico",
     "slug": "dego-holding-homepage",
-    "status": "up",
-    "uptime": "56.76%",
-    "uptimeDay": "14.32%",
-    "uptimeWeek": "12.83%",
-    "uptimeMonth": "6.31%",
-    "uptimeYear": "56.76%",
-    "time": 1406,
-    "timeDay": 1256,
-    "timeWeek": 1195,
+    "status": "down",
+    "uptime": "56.77%",
+    "uptimeDay": "15.07%",
+    "uptimeWeek": "12.82%",
+    "uptimeMonth": "6.33%",
+    "uptimeYear": "56.77%",
+    "time": 1405,
+    "timeDay": 1243,
+    "timeWeek": 1196,
     "timeMonth": 1193,
-    "timeYear": 1406,
+    "timeYear": 1405,
     "dailyMinutesDown": {
-      "2026-03-14": 24,
       "2026-03-18": 59,
       "2026-03-25": 45,
       "2026-03-26": 31,
@@ -140,7 +139,7 @@
       "2026-08-11": 1386,
       "2026-08-12": 1209,
       "2026-08-13": 1246,
-      "2026-08-14": 1218
+      "2026-08-14": 1219
     }
   },
   {
