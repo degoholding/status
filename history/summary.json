@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 347,
     "timeDay": 372,
-    "timeWeek": 286,
+    "timeWeek": 305,
     "timeMonth": 323,
     "timeYear": 347,
     "dailyMinutesDown": {}
@@ -22,17 +22,17 @@
     "url": "https://degoholding.com",
     "icon": "https://icons.duckduckgo.com/ip3/degoholding.com.ico",
     "slug": "dego-holding-homepage",
-    "status": "down",
-    "uptime": "56.28%",
-    "uptimeDay": "12.77%",
-    "uptimeWeek": "11.19%",
+    "status": "up",
+    "uptime": "56.27%",
+    "uptimeDay": "11.90%",
+    "uptimeWeek": "11.20%",
     "uptimeMonth": "7.58%",
-    "uptimeYear": "56.28%",
-    "time": 1416,
-    "timeDay": 2296,
-    "timeWeek": 1402,
-    "timeMonth": 1276,
-    "timeYear": 1416,
+    "uptimeYear": "56.27%",
+    "time": 1415,
+    "timeDay": 2311,
+    "timeWeek": 1409,
+    "timeMonth": 1275,
+    "timeYear": 1415,
     "dailyMinutesDown": {
       "2026-04-12": 37,
       "2026-04-13": 219,
@@ -132,7 +132,7 @@
       "2026-08-14": 1283,
       "2026-08-15": 1350,
       "2026-08-16": 1209,
-      "2026-08-17": 1233
+      "2026-08-17": 1252
     }
   },
   {
@@ -148,7 +148,7 @@
     "uptimeYear": "93.91%",
     "time": 885,
     "timeDay": 798,
-    "timeWeek": 881,
+    "timeWeek": 925,
     "timeMonth": 853,
     "timeYear": 885,
     "dailyMinutesDown": {
@@ -226,7 +226,7 @@
     "uptimeYear": "100.00%",
     "time": 265,
     "timeDay": 299,
-    "timeWeek": 240,
+    "timeWeek": 236,
     "timeMonth": 238,
     "timeYear": 265,
     "dailyMinutesDown": {}
@@ -244,7 +244,7 @@
     "uptimeYear": "99.97%",
     "time": 1075,
     "timeDay": 951,
-    "timeWeek": 1030,
+    "timeWeek": 984,
     "timeMonth": 1032,
     "timeYear": 1075,
     "dailyMinutesDown": {
@@ -264,7 +264,7 @@
     "uptimeYear": "96.14%",
     "time": 3009,
     "timeDay": 4203,
-    "timeWeek": 3323,
+    "timeWeek": 3347,
     "timeMonth": 3026,
     "timeYear": 3009,
     "dailyMinutesDown": {
@@ -325,7 +325,7 @@
     "uptimeYear": "92.45%",
     "time": 1379,
     "timeDay": 1103,
-    "timeWeek": 5774,
+    "timeWeek": 6303,
     "timeMonth": 2038,
     "timeYear": 1379,
     "dailyMinutesDown": {
@@ -397,14 +397,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/idaglobal.com.vn.ico",
     "slug": "ida-global",
     "status": "up",
-    "uptime": "94.40%",
+    "uptime": "94.41%",
     "uptimeDay": "99.21%",
     "uptimeWeek": "99.89%",
     "uptimeMonth": "94.82%",
-    "uptimeYear": "94.40%",
+    "uptimeYear": "94.41%",
     "time": 1844,
     "timeDay": 1536,
-    "timeWeek": 1547,
+    "timeWeek": 1560,
     "timeMonth": 1825,
     "timeYear": 1844,
     "dailyMinutesDown": {
@@ -474,7 +474,7 @@
     "uptimeYear": "98.10%",
     "time": 3577,
     "timeDay": 1527,
-    "timeWeek": 2027,
+    "timeWeek": 1900,
     "timeMonth": 3020,
     "timeYear": 3577,
     "dailyMinutesDown": {
@@ -542,7 +542,7 @@
     "uptimeYear": "93.98%",
     "time": 1948,
     "timeDay": 1732,
-    "timeWeek": 1523,
+    "timeWeek": 1518,
     "timeMonth": 1804,
     "timeYear": 1948,
     "dailyMinutesDown": {
@@ -612,7 +612,7 @@
     "uptimeYear": "99.94%",
     "time": 2047,
     "timeDay": 1607,
-    "timeWeek": 1880,
+    "timeWeek": 1861,
     "timeMonth": 1988,
     "timeYear": 2047,
     "dailyMinutesDown": {
