@@ -25,7 +25,7 @@
     "status": "down",
     "uptime": "56.38%",
     "uptimeDay": "9.33%",
-    "uptimeWeek": "11.18%",
+    "uptimeWeek": "10.95%",
     "uptimeMonth": "7.19%",
     "uptimeYear": "56.38%",
     "time": 1390,
@@ -134,7 +134,7 @@
       "2026-08-14": 1283,
       "2026-08-15": 1350,
       "2026-08-16": 1209,
-      "2026-08-17": 300
+      "2026-08-17": 324
     }
   },
   {
@@ -258,16 +258,16 @@
     "url": "https://abachemical.com",
     "icon": "https://icons.duckduckgo.com/ip3/abachemical.com.ico",
     "slug": "aba-chemical",
-    "status": "down",
-    "uptime": "95.87%",
-    "uptimeDay": "91.88%",
-    "uptimeWeek": "92.16%",
-    "uptimeMonth": "88.77%",
-    "uptimeYear": "95.87%",
+    "status": "up",
+    "uptime": "95.86%",
+    "uptimeDay": "90.26%",
+    "uptimeWeek": "91.93%",
+    "uptimeMonth": "88.72%",
+    "uptimeYear": "95.86%",
     "time": 3003,
-    "timeDay": 3371,
-    "timeWeek": 3216,
-    "timeMonth": 2968,
+    "timeDay": 3275,
+    "timeWeek": 3196,
+    "timeMonth": 2965,
     "timeYear": 3003,
     "dailyMinutesDown": {
       "2026-07-01": 547,
@@ -313,7 +313,7 @@
       "2026-08-14": 14,
       "2026-08-15": 20,
       "2026-08-16": 142,
-      "2026-08-17": 67
+      "2026-08-17": 90
     }
   },
   {
