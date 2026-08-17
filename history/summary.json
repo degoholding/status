@@ -13,7 +13,7 @@
     "time": 347,
     "timeDay": 356,
     "timeWeek": 274,
-    "timeMonth": 325,
+    "timeMonth": 321,
     "timeYear": 347,
     "dailyMinutesDown": {}
   },
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/degoholding.com.ico",
     "slug": "dego-holding-homepage",
     "status": "down",
-    "uptime": "56.46%",
+    "uptime": "56.45%",
     "uptimeDay": "16.02%",
     "uptimeWeek": "11.67%",
     "uptimeMonth": "7.19%",
-    "uptimeYear": "56.46%",
+    "uptimeYear": "56.45%",
     "time": 1390,
     "timeDay": 1164,
     "timeWeek": 1172,
-    "timeMonth": 1188,
+    "timeMonth": 1189,
     "timeYear": 1390,
     "dailyMinutesDown": {
       "2026-04-10": 100,
@@ -133,7 +133,8 @@
       "2026-08-13": 1246,
       "2026-08-14": 1283,
       "2026-08-15": 1350,
-      "2026-08-16": 1187
+      "2026-08-16": 1209,
+      "2026-08-17": 5
     }
   },
   {
@@ -150,7 +151,7 @@
     "time": 885,
     "timeDay": 1079,
     "timeWeek": 893,
-    "timeMonth": 848,
+    "timeMonth": 850,
     "timeYear": 885,
     "dailyMinutesDown": {
       "2026-04-19": 25,
@@ -228,7 +229,7 @@
     "time": 265,
     "timeDay": 294,
     "timeWeek": 231,
-    "timeMonth": 240,
+    "timeMonth": 236,
     "timeYear": 265,
     "dailyMinutesDown": {}
   },
@@ -246,7 +247,7 @@
     "time": 1076,
     "timeDay": 1471,
     "timeWeek": 1041,
-    "timeMonth": 1038,
+    "timeMonth": 1034,
     "timeYear": 1076,
     "dailyMinutesDown": {
       "2026-04-09": 60
@@ -257,20 +258,20 @@
     "url": "https://abachemical.com",
     "icon": "https://icons.duckduckgo.com/ip3/abachemical.com.ico",
     "slug": "aba-chemical",
-    "status": "up",
-    "uptime": "95.82%",
-    "uptimeDay": "89.77%",
-    "uptimeWeek": "92.83%",
+    "status": "down",
+    "uptime": "95.85%",
+    "uptimeDay": "90.12%",
+    "uptimeWeek": "92.82%",
     "uptimeMonth": "88.92%",
-    "uptimeYear": "95.82%",
+    "uptimeYear": "95.85%",
     "time": 3000,
-    "timeDay": 3325,
+    "timeDay": 3011,
     "timeWeek": 3132,
     "timeMonth": 2947,
     "timeYear": 3000,
     "dailyMinutesDown": {
-      "2026-06-29": 97,
       "2026-06-30": 115,
+      "2026-06-29": 15,
       "2026-07-01": 547,
       "2026-07-02": 373,
       "2026-07-03": 621,
@@ -312,7 +313,8 @@
       "2026-08-13": 45,
       "2026-08-14": 14,
       "2026-08-15": 20,
-      "2026-08-16": 142
+      "2026-08-16": 142,
+      "2026-08-17": 1
     }
   },
   {
@@ -321,15 +323,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/agcvietnam.com.vn.ico",
     "slug": "agc-viet-nam",
     "status": "up",
-    "uptime": "92.40%",
+    "uptime": "92.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.30%",
     "uptimeMonth": "87.10%",
-    "uptimeYear": "92.40%",
+    "uptimeYear": "92.41%",
     "time": 1380,
     "timeDay": 1506,
     "timeWeek": 6293,
-    "timeMonth": 1988,
+    "timeMonth": 1997,
     "timeYear": 1380,
     "dailyMinutesDown": {
       "2026-04-19": 171,
@@ -477,7 +479,7 @@
     "time": 3585,
     "timeDay": 1730,
     "timeWeek": 2098,
-    "timeMonth": 3076,
+    "timeMonth": 3065,
     "timeYear": 3585,
     "dailyMinutesDown": {
       "2026-03-04": 77,
