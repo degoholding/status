@@ -22,19 +22,18 @@
     "url": "https://degoholding.com",
     "icon": "https://icons.duckduckgo.com/ip3/degoholding.com.ico",
     "slug": "dego-holding-homepage",
-    "status": "up",
-    "uptime": "56.27%",
-    "uptimeDay": "11.90%",
-    "uptimeWeek": "11.20%",
-    "uptimeMonth": "7.58%",
-    "uptimeYear": "56.27%",
-    "time": 1415,
-    "timeDay": 2311,
-    "timeWeek": 1409,
-    "timeMonth": 1275,
-    "timeYear": 1415,
+    "status": "down",
+    "uptime": "56.29%",
+    "uptimeDay": "12.84%",
+    "uptimeWeek": "11.33%",
+    "uptimeMonth": "7.61%",
+    "uptimeYear": "56.29%",
+    "time": 1414,
+    "timeDay": 2201,
+    "timeWeek": 1400,
+    "timeMonth": 1274,
+    "timeYear": 1414,
     "dailyMinutesDown": {
-      "2026-04-12": 37,
       "2026-04-13": 219,
       "2026-04-14": 40,
       "2026-04-15": 56,
@@ -132,7 +131,7 @@
       "2026-08-14": 1283,
       "2026-08-15": 1350,
       "2026-08-16": 1209,
-      "2026-08-17": 1252
+      "2026-08-17": 1253
     }
   },
   {
@@ -149,7 +148,7 @@
     "time": 885,
     "timeDay": 798,
     "timeWeek": 925,
-    "timeMonth": 853,
+    "timeMonth": 851,
     "timeYear": 885,
     "dailyMinutesDown": {
       "2026-04-19": 25,
@@ -227,7 +226,7 @@
     "time": 265,
     "timeDay": 299,
     "timeWeek": 236,
-    "timeMonth": 238,
+    "timeMonth": 236,
     "timeYear": 265,
     "dailyMinutesDown": {}
   },
@@ -245,7 +244,7 @@
     "time": 1075,
     "timeDay": 951,
     "timeWeek": 984,
-    "timeMonth": 1032,
+    "timeMonth": 1033,
     "timeYear": 1075,
     "dailyMinutesDown": {
       "2026-04-09": 60
@@ -265,7 +264,7 @@
     "time": 3009,
     "timeDay": 4203,
     "timeWeek": 3347,
-    "timeMonth": 3026,
+    "timeMonth": 3023,
     "timeYear": 3009,
     "dailyMinutesDown": {
       "2026-07-02": 278,
@@ -326,7 +325,7 @@
     "time": 1379,
     "timeDay": 1103,
     "timeWeek": 6303,
-    "timeMonth": 2038,
+    "timeMonth": 2045,
     "timeYear": 1379,
     "dailyMinutesDown": {
       "2026-04-19": 171,
@@ -405,7 +404,7 @@
     "time": 1844,
     "timeDay": 1536,
     "timeWeek": 1560,
-    "timeMonth": 1825,
+    "timeMonth": 1822,
     "timeYear": 1844,
     "dailyMinutesDown": {
       "2026-06-05": 83,
@@ -475,7 +474,7 @@
     "time": 3577,
     "timeDay": 1527,
     "timeWeek": 1900,
-    "timeMonth": 3020,
+    "timeMonth": 2910,
     "timeYear": 3577,
     "dailyMinutesDown": {
       "2026-03-04": 77,
@@ -543,7 +542,7 @@
     "time": 1948,
     "timeDay": 1732,
     "timeWeek": 1518,
-    "timeMonth": 1804,
+    "timeMonth": 1799,
     "timeYear": 1948,
     "dailyMinutesDown": {
       "2026-06-04": 649,
@@ -613,7 +612,7 @@
     "time": 2047,
     "timeDay": 1607,
     "timeWeek": 1861,
-    "timeMonth": 1988,
+    "timeMonth": 1980,
     "timeYear": 2047,
     "dailyMinutesDown": {
       "2026-03-07": 28,
