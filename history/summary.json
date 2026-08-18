@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/degoholding.com.ico",
     "slug": "dego-holding-homepage",
     "status": "down",
-    "uptime": "56.29%",
+    "uptime": "56.27%",
     "uptimeDay": "12.84%",
     "uptimeWeek": "11.33%",
     "uptimeMonth": "7.61%",
-    "uptimeYear": "56.29%",
+    "uptimeYear": "56.27%",
     "time": 1414,
     "timeDay": 2201,
     "timeWeek": 1400,
@@ -131,7 +131,8 @@
       "2026-08-14": 1283,
       "2026-08-15": 1350,
       "2026-08-16": 1209,
-      "2026-08-17": 1253
+      "2026-08-17": 1255,
+      "2026-08-18": 71
     }
   },
   {
@@ -257,12 +258,12 @@
     "slug": "aba-chemical",
     "status": "up",
     "uptime": "96.14%",
-    "uptimeDay": "90.16%",
+    "uptimeDay": "94.76%",
     "uptimeWeek": "91.42%",
     "uptimeMonth": "88.95%",
     "uptimeYear": "96.14%",
     "time": 3009,
-    "timeDay": 4203,
+    "timeDay": 3964,
     "timeWeek": 3347,
     "timeMonth": 3023,
     "timeYear": 3009,
