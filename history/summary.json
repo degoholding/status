@@ -22,19 +22,19 @@
     "url": "https://degoholding.com",
     "icon": "https://icons.duckduckgo.com/ip3/degoholding.com.ico",
     "slug": "dego-holding-homepage",
-    "status": "up",
-    "uptime": "56.12%",
-    "uptimeDay": "8.45%",
-    "uptimeWeek": "11.34%",
-    "uptimeMonth": "7.61%",
-    "uptimeYear": "56.12%",
-    "time": 1413,
-    "timeDay": 2274,
-    "timeWeek": 1394,
-    "timeMonth": 1272,
-    "timeYear": 1413,
+    "status": "down",
+    "uptime": "56.18%",
+    "uptimeDay": "8.65%",
+    "uptimeWeek": "11.51%",
+    "uptimeMonth": "7.65%",
+    "uptimeYear": "56.18%",
+    "time": 1412,
+    "timeDay": 2345,
+    "timeWeek": 1385,
+    "timeMonth": 1269,
+    "timeYear": 1412,
     "dailyMinutesDown": {
-      "2026-04-13": 219,
+      "2026-04-13": 102,
       "2026-04-14": 40,
       "2026-04-15": 56,
       "2026-04-18": 17,
@@ -132,7 +132,7 @@
       "2026-08-15": 1350,
       "2026-08-16": 1209,
       "2026-08-17": 1255,
-      "2026-08-18": 698
+      "2026-08-18": 703
     }
   },
   {
@@ -256,19 +256,19 @@
     "url": "https://abachemical.com",
     "icon": "https://icons.duckduckgo.com/ip3/abachemical.com.ico",
     "slug": "aba-chemical",
-    "status": "up",
-    "uptime": "96.19%",
-    "uptimeDay": "94.74%",
-    "uptimeWeek": "92.50%",
+    "status": "down",
+    "uptime": "96.23%",
+    "uptimeDay": "94.70%",
+    "uptimeWeek": "92.49%",
     "uptimeMonth": "89.00%",
-    "uptimeYear": "96.19%",
+    "uptimeYear": "96.23%",
     "time": 3013,
     "timeDay": 4621,
     "timeWeek": 3436,
     "timeMonth": 3065,
     "timeYear": 3013,
     "dailyMinutesDown": {
-      "2026-07-02": 162,
+      "2026-07-02": 65,
       "2026-07-03": 621,
       "2026-07-04": 444,
       "2026-07-05": 490,
@@ -310,7 +310,7 @@
       "2026-08-15": 20,
       "2026-08-16": 142,
       "2026-08-17": 142,
-      "2026-08-18": 24
+      "2026-08-18": 25
     }
   },
   {
@@ -406,7 +406,7 @@
     "time": 1844,
     "timeDay": 1536,
     "timeWeek": 1560,
-    "timeMonth": 1834,
+    "timeMonth": 1814,
     "timeYear": 1844,
     "dailyMinutesDown": {
       "2026-06-05": 83,
@@ -544,7 +544,7 @@
     "time": 1948,
     "timeDay": 1732,
     "timeWeek": 1518,
-    "timeMonth": 1807,
+    "timeMonth": 1809,
     "timeYear": 1948,
     "dailyMinutesDown": {
       "2026-06-04": 649,
